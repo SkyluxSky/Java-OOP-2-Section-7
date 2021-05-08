@@ -2,19 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1f90e400-c570-470e-90ee-03f56fcac537" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/project-template.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PolymorphismChallenge.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SkyluxSky/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SkyluxSky/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,21 +73,25 @@
       <screen x="62" y="0" width="1858" height="1080" />
     </state>
     <state x="774" y="434" width="433" height="218" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/-1858.0.1858.1080/62.0.1858.1080/1920.30.1920.1050@62.0.1858.1080" timestamp="1620501802434" />
-    <state width="736" height="929" key="GridCell.Tab.0.bottom" timestamp="1620502195780">
+    <state width="736" height="929" key="GridCell.Tab.0.bottom" timestamp="1620502564440">
       <screen x="62" y="0" width="1858" height="1080" />
     </state>
-    <state width="736" height="929" key="GridCell.Tab.0.bottom/-1858.0.1858.1080/62.0.1858.1080/1920.30.1920.1050@62.0.1858.1080" timestamp="1620502195780" />
-    <state width="736" height="929" key="GridCell.Tab.0.center" timestamp="1620502195780">
+    <state width="736" height="929" key="GridCell.Tab.0.bottom/-1858.0.1858.1080/62.0.1858.1080/1920.30.1920.1050@62.0.1858.1080" timestamp="1620502564440" />
+    <state width="736" height="929" key="GridCell.Tab.0.center" timestamp="1620502564440">
       <screen x="62" y="0" width="1858" height="1080" />
     </state>
-    <state width="736" height="929" key="GridCell.Tab.0.center/-1858.0.1858.1080/62.0.1858.1080/1920.30.1920.1050@62.0.1858.1080" timestamp="1620502195780" />
-    <state width="736" height="929" key="GridCell.Tab.0.left" timestamp="1620502195780">
+    <state width="736" height="929" key="GridCell.Tab.0.center/-1858.0.1858.1080/62.0.1858.1080/1920.30.1920.1050@62.0.1858.1080" timestamp="1620502564440" />
+    <state width="736" height="929" key="GridCell.Tab.0.left" timestamp="1620502564440">
       <screen x="62" y="0" width="1858" height="1080" />
     </state>
-    <state width="736" height="929" key="GridCell.Tab.0.left/-1858.0.1858.1080/62.0.1858.1080/1920.30.1920.1050@62.0.1858.1080" timestamp="1620502195780" />
-    <state width="736" height="929" key="GridCell.Tab.0.right" timestamp="1620502195780">
+    <state width="736" height="929" key="GridCell.Tab.0.left/-1858.0.1858.1080/62.0.1858.1080/1920.30.1920.1050@62.0.1858.1080" timestamp="1620502564440" />
+    <state width="736" height="929" key="GridCell.Tab.0.right" timestamp="1620502564440">
       <screen x="62" y="0" width="1858" height="1080" />
     </state>
-    <state width="736" height="929" key="GridCell.Tab.0.right/-1858.0.1858.1080/62.0.1858.1080/1920.30.1920.1050@62.0.1858.1080" timestamp="1620502195780" />
+    <state width="736" height="929" key="GridCell.Tab.0.right/-1858.0.1858.1080/62.0.1858.1080/1920.30.1920.1050@62.0.1858.1080" timestamp="1620502564440" />
+    <state x="373" y="160" key="new project wizard" timestamp="1620502561306">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state x="373" y="160" key="new project wizard/-1858.0.1858.1080/62.0.1858.1080/1920.30.1920.1050@62.0.1858.1080" timestamp="1620502561306" />
   </component>
 </project>
